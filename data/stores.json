@@ -1,0 +1,110 @@
+[
+  {
+    "id": "str-001",
+    "name": "ミドリマーケット 渋谷店",
+    "companyId": "co-002",
+    "area": "東京",
+    "address": "東京都渋谷区神南1-12-3",
+    "category": "スーパーマーケット",
+    "manager": "佐藤 健太",
+    "monthlySales": 4280,
+    "growth": 12.8,
+    "status": "営業中"
+  },
+  {
+    "id": "str-002",
+    "name": "ミドリマーケット 新宿店",
+    "companyId": "co-002",
+    "area": "東京",
+    "address": "東京都新宿区新宿3-8-4",
+    "category": "スーパーマーケット",
+    "manager": "中村 大輔",
+    "monthlySales": 3860,
+    "growth": 8.4,
+    "status": "営業中"
+  },
+  {
+    "id": "str-003",
+    "name": "Blue Table 表参道",
+    "companyId": "co-003",
+    "area": "東京",
+    "address": "東京都港区北青山3-6-1",
+    "category": "レストラン",
+    "manager": "鈴木 彩香",
+    "monthlySales": 2750,
+    "growth": 16.2,
+    "status": "営業中"
+  },
+  {
+    "id": "str-004",
+    "name": "Blue Table 横浜",
+    "companyId": "co-003",
+    "area": "神奈川",
+    "address": "神奈川県横浜市西区南幸1-5-2",
+    "category": "レストラン",
+    "manager": "小林 花",
+    "monthlySales": 2310,
+    "growth": 5.3,
+    "status": "営業中"
+  },
+  {
+    "id": "str-005",
+    "name": "HANAMIZUKI 銀座",
+    "companyId": "co-004",
+    "area": "東京",
+    "address": "東京都中央区銀座4-2-7",
+    "category": "ライフスタイル",
+    "manager": "伊藤 結衣",
+    "monthlySales": 1980,
+    "growth": -3.2,
+    "status": "営業中"
+  },
+  {
+    "id": "str-006",
+    "name": "HANAMIZUKI 京都",
+    "companyId": "co-004",
+    "area": "京都",
+    "address": "京都府京都市中京区河原町通三条下る",
+    "category": "ライフスタイル",
+    "manager": "吉田 真由",
+    "monthlySales": 1740,
+    "growth": 4.6,
+    "status": "営業中"
+  },
+  {
+    "id": "str-007",
+    "name": "クラフトラボ 大阪",
+    "companyId": "co-006",
+    "area": "大阪",
+    "address": "大阪府大阪市北区梅田2-1-6",
+    "category": "ショールーム",
+    "manager": "山本 葵",
+    "monthlySales": 1560,
+    "growth": 9.1,
+    "status": "営業中"
+  },
+  {
+    "id": "str-008",
+    "name": "ミドリマーケット 名古屋店",
+    "companyId": "co-002",
+    "area": "愛知",
+    "address": "愛知県名古屋市中区栄3-4-5",
+    "category": "スーパーマーケット",
+    "manager": "渡辺 翔太",
+    "monthlySales": 3190,
+    "growth": 11.5,
+    "status": "営業中"
+  },
+  {
+    "id": "str-009",
+    "name": "Blue Table 福岡",
+    "companyId": "co-003",
+    "area": "福岡",
+    "address": "福岡県福岡市中央区天神2-8-1",
+    "category": "レストラン",
+    "manager": "高橋 直樹",
+    "monthlySales": 0,
+    "growth": 0,
+    "status": "準備中"
+  }
+]

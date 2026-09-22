@@ -1,0 +1,134 @@
+[
+  {
+    "id": "usr-001",
+    "name": "田中 美咲",
+    "email": "misaki.tanaka@example.com",
+    "companyId": "co-001",
+    "plan": "Enterprise",
+    "status": "アクティブ",
+    "joinedAt": "2026-09-18",
+    "initials": "田中",
+    "color": "#dcece8"
+  },
+  {
+    "id": "usr-002",
+    "name": "佐藤 健太",
+    "email": "kenta.sato@example.com",
+    "companyId": "co-002",
+    "plan": "Business",
+    "status": "アクティブ",
+    "joinedAt": "2026-09-16",
+    "initials": "佐藤",
+    "color": "#e7e8d5"
+  },
+  {
+    "id": "usr-003",
+    "name": "鈴木 彩香",
+    "email": "ayaka.suzuki@example.com",
+    "companyId": "co-003",
+    "plan": "Business",
+    "status": "アクティブ",
+    "joinedAt": "2026-09-14",
+    "initials": "鈴木",
+    "color": "#e0e8f1"
+  },
+  {
+    "id": "usr-004",
+    "name": "高橋 直樹",
+    "email": "naoki.takahashi@example.com",
+    "companyId": "co-001",
+    "plan": "Enterprise",
+    "status": "招待中",
+    "joinedAt": "2026-09-12",
+    "initials": "高橋",
+    "color": "#eee2db"
+  },
+  {
+    "id": "usr-005",
+    "name": "伊藤 結衣",
+    "email": "yui.ito@example.com",
+    "companyId": "co-004",
+    "plan": "Starter",
+    "status": "アクティブ",
+    "joinedAt": "2026-09-10",
+    "initials": "伊藤",
+    "color": "#f1e2e6"
+  },
+  {
+    "id": "usr-006",
+    "name": "渡辺 翔太",
+    "email": "shota.watanabe@example.com",
+    "companyId": "co-005",
+    "plan": "Enterprise",
+    "status": "アクティブ",
+    "joinedAt": "2026-09-08",
+    "initials": "渡辺",
+    "color": "#eee9d8"
+  },
+  {
+    "id": "usr-007",
+    "name": "山本 葵",
+    "email": "aoi.yamamoto@example.com",
+    "companyId": "co-006",
+    "plan": "Starter",
+    "status": "休止中",
+    "joinedAt": "2026-09-04",
+    "initials": "山本",
+    "color": "#e7dff0"
+  },
+  {
+    "id": "usr-008",
+    "name": "中村 大輔",
+    "email": "daisuke.nakamura@example.com",
+    "companyId": "co-002",
+    "plan": "Business",
+    "status": "アクティブ",
+    "joinedAt": "2026-08-28",
+    "initials": "中村",
+    "color": "#e4eadc"
+  },
+  {
+    "id": "usr-009",
+    "name": "小林 花",
+    "email": "hana.kobayashi@example.com",
+    "companyId": "co-003",
+    "plan": "Business",
+    "status": "招待中",
+    "joinedAt": "2026-08-24",
+    "initials": "小林",
+    "color": "#dfe9ef"
+  },
+  {
+    "id": "usr-010",
+    "name": "加藤 亮",
+    "email": "ryo.kato@example.com",
+    "companyId": "co-005",
+    "plan": "Enterprise",
+    "status": "アクティブ",
+    "joinedAt": "2026-08-19",
+    "initials": "加藤",
+    "color": "#f1e7d6"
+  },
+  {
+    "id": "usr-011",
+    "name": "吉田 真由",
+    "email": "mayu.yoshida@example.com",
+    "companyId": "co-004",
+    "plan": "Starter",
+    "status": "アクティブ",
+    "joinedAt": "2026-08-12",
+    "initials": "吉田",
+    "color": "#f0dfe0"
+  },
+  {
+    "id": "usr-012",
+    "name": "山田 悠斗",
+    "email": "yuto.yamada@example.com",
+    "companyId": "co-001",
+    "plan": "Enterprise",
+    "status": "アクティブ",
+    "joinedAt": "2026-08-06",
+    "initials": "山田",
+    "color": "#dcece8"
+  }
+]
