@@ -8,6 +8,9 @@ export type User = {
   joinedAt: string;
   initials: string;
   color: string;
+  birthDate?: string | null;
+  age?: number | null;
+  ageLabel?: string;
 };
 export type Store = {
   id: string;
